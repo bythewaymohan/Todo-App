@@ -13,6 +13,11 @@ This project is a simple To-Do application built using ReactJS and Redux. It all
 6. **Persistent Storage**: Tasks are saved to local storage and reloaded when the app initializes.
 7. **Filter Tasks**: Users can filter tasks to show all, completed, or uncompleted tasks.
 
+## Project is live on Server 
+[Click Here](https://quadbtodo.netlify.app/)
+OR
+[https://quadbtodo.netlify.app/](https://quadbtodo.netlify.app/)
+
 ## Installation
 
 To run this project locally, you can either download the project files directly or clone the repository from GitHub.
